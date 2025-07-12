@@ -1,4 +1,3 @@
-
 # Yet Another Python Course
 
 Welcome to Yet Another Python Course! This course is designed for non-developer professionals who want to learn Python from scratch. It focuses on practical skills that can enhance your productivity in various professional roles.
@@ -38,12 +37,20 @@ Below is the detailed syllabus outlining the modules and topics covered in the c
   - **Exercises**: Extract data from a website, fetch data from a public API
   - **Project**: Scrape weather data from a website and save it to a CSV file
 
-- **[Module 5: Introduction to Data Analysis (Optional)](#module-5-introduction-to-data-analysis-optional)**
+- **[Module 5: Introduction to Data Analysis](#module-5-introduction-to-data-analysis)**
   - Introduction to pandas for data manipulation (dataframes, series)
   - Basic data operations (filtering, sorting, grouping)
   - Simple data visualization using matplotlib (e.g., bar charts, line graphs)
   - **Exercises**: Clean and analyze a small dataset
   - **Project**: Analyze a dataset of sales data and create a bar chart to visualize sales by region
+
+- **[Module 6: Building Tools - CLI and Desktop Applications](#module-6-building-tools---cli-and-desktop-applications)**
+  - Command-line interface (CLI) tools using argparse
+  - Desktop applications with tkinter (GUI programming)
+  - File operations and data handling in tools
+  - Advanced tool features (progress bars, menus, dialogs)
+  - **Exercises**: CLI calculator, file renamer, GUI calculator, text file viewer
+  - **Project**: Create a multi-function file utility (CLI) and a personal productivity desktop app
 
 ## How to Use This Repository
 - Each module has its own folder (e.g., `module1_basics/`, `module2_functions_data_structures/`) containing:
@@ -123,7 +130,7 @@ If you have questions or need help, feel free to open an issue in this repositor
 
 ---
 
-### Module 5: Introduction to Data Analysis (Optional)
+### Module 5: Introduction to Data Analysis
 - **Topics**:
   - Introduction to pandas for data manipulation (dataframes, series)
   - Basic data operations (filtering, sorting, grouping)
@@ -132,7 +139,21 @@ If you have questions or need help, feel free to open an issue in this repositor
   - Exercises: Clean and analyze a small dataset
   - Project: Analyze a dataset of sales data and create a bar chart to visualize sales by region
 
-[Go to Module 5](#module-5-introduction-to-data-analysis-optional)
+[Go to Module 5](#module-5-introduction-to-data-analysis)
+
+---
+
+### Module 6: Building Tools - CLI and Desktop Applications
+- **Topics**:
+  - Command-line interface (CLI) tools using argparse
+  - Desktop applications with tkinter (GUI programming)
+  - File operations and data handling in tools
+  - Advanced tool features (progress bars, menus, dialogs)
+- **Interactivity**:
+  - Exercises: CLI calculator, file renamer, GUI calculator, text file viewer, system information tool
+  - Project: Create a multi-function file utility (CLI) and a personal productivity desktop app
+
+[Go to Module 6](#module-6-building-tools---cli-and-desktop-applications)
 
 ---
 
@@ -155,7 +176,11 @@ To help you track your progress, consider using the checklist below. Check off e
   - [ ] Topics
   - [ ] Exercises
   - [ ] Project
-- [ ] **Module 5: Introduction to Data Analysis (Optional)**
+- [ ] **Module 5: Introduction to Data Analysis**
+  - [ ] Topics
+  - [ ] Exercises
+  - [ ] Project
+- [ ] **Module 6: Building Tools - CLI and Desktop Applications**
   - [ ] Topics
   - [ ] Exercises
   - [ ] Project
